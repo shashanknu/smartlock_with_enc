@@ -1,0 +1,118 @@
+2024-07-28 21:03:32,903 - INFO - File encrypted: C:/Users/shash/OneDrive/Desktop/New Text Document.txt
+2024-07-28 21:03:47,100 - INFO - File decrypted: C:/Users/shash/OneDrive/Desktop/New Text Document.txt.enc
+2024-07-28 21:07:58,503 - INFO - File encrypted: C:/Users/shash/OneDrive/Desktop/New Text Document.txt
+2024-07-28 21:08:08,788 - ERROR - Failed to decrypt file C:/Users/shash/OneDrive/Desktop/New Text Document.txt.enc: 
+2024-07-28 21:08:17,386 - INFO - File decrypted: C:/Users/shash/OneDrive/Desktop/New Text Document.txt.enc
+2024-07-28 21:13:38,882 - INFO - File encrypted: C:/Users/shash/OneDrive/Desktop/New Text Document.txt
+2024-07-28 21:23:15,798 - INFO - Key generated and saved: C:/Users/shash/OneDrive/Desktop/q.key
+2024-07-28 21:49:10,624 - INFO - Key generated and saved: C:/Users/shash/OneDrive/Desktop/mykey.key
+2024-07-28 21:50:39,040 - INFO - Key generated and saved: C:/Users/shash/OneDrive/Desktop/mykey.key
+2024-07-28 21:50:49,836 - INFO - File encrypted: C:/Users/shash/OneDrive/Desktop/GATE sheet.pdf
+2024-07-28 21:53:46,746 - INFO - File decrypted: C:/Users/shash/OneDrive/Desktop/GATE sheet.pdf.enc
+2024-07-28 21:54:09,820 - INFO - File decrypted: C:/Users/shash/OneDrive/Desktop/GATE sheet.pdf.enc
+2024-07-29 08:45:20,575 - INFO - Key generated and saved: C:/Users/shash/OneDrive/Desktop/hi.key
+2024-07-29 08:45:32,699 - INFO - File encrypted: C:/Users/shash/OneDrive/Desktop/Untitled 1 (1).png
+2024-07-29 08:47:07,864 - INFO - File decrypted: C:/Users/shash/OneDrive/Desktop/Untitled 1 (1).png.enc
+2024-07-29 10:32:58,788 - INFO - Key generated and saved: C:/Users/shash/OneDrive/Documents/programs/SSLUBC/test/key.key
+2024-07-29 10:33:11,597 - INFO - File encrypted: C:/Users/shash/OneDrive/Documents/programs/SSLUBC/nfc_uids.txt
+2024-07-29 10:34:12,481 - INFO - File decrypted: C:/Users/shash/OneDrive/Documents/programs/SSLUBC/nfc_uids.txt.enc
+2024-07-29 10:52:17,703 - INFO - 2024-07-29 10:52:13.907106 - UID: 0xD7 0xEA 0x96 0x5F - UNAUTHORISED ACCESS
+2024-07-29 15:51:10,335 - INFO - Key generated and saved: C:/Users/shash/OneDrive/Documents/programs/SSLUBC/key.key
+2024-07-29 15:51:29,685 - INFO - File encrypted: C:/Users/shash/OneDrive/Documents/programs/SSLUBC/nfc_uids.txt
+2024-07-29 15:52:20,373 - INFO - File decrypted: C:/Users/shash/OneDrive/Documents/programs/SSLUBC/nfc_uids.txt.enc
+2024-07-30 08:31:44,739 - INFO - File encrypted: nfc_uids.txt
+2024-07-30 08:31:45,955 - INFO - File encrypted: nfc_uids.txt
+2024-07-30 08:32:36,380 - INFO - File encrypted: nfc_uids.txt
+2024-07-30 08:32:49,444 - INFO - File encrypted: nfc_uids.txt
+2024-07-30 08:32:50,478 - INFO - File encrypted: nfc_uids.txt
+2024-07-30 08:34:16,549 - INFO - File encrypted: nfc_uids.txt
+2024-07-30 08:34:21,548 - INFO - File encrypted: nfc_uids.txt
+2024-07-30 08:34:24,199 - INFO - File encrypted: nfc_uids.txt
+2024-07-30 08:34:26,668 - INFO - File encrypted: nfc_uids.txt
+2024-07-30 08:36:22,340 - ERROR - Failed to decrypt file C:/Users/shash/OneDrive/Documents/programs/SSLUBC/nfc_uids.txt.enc: 
+2024-07-30 08:55:46,373 - ERROR - Failed to encrypt file nfc_uids.txt: Fernet key must be 32 url-safe base64-encoded bytes.
+2024-07-30 08:55:48,263 - ERROR - Failed to encrypt file nfc_uids.txt: Fernet key must be 32 url-safe base64-encoded bytes.
+2024-07-30 08:55:49,553 - ERROR - Failed to encrypt file nfc_uids.txt: Fernet key must be 32 url-safe base64-encoded bytes.
+2024-07-30 08:56:23,327 - ERROR - Failed to encrypt file nfc_uids.txt: Fernet key must be 32 url-safe base64-encoded bytes.
+2024-07-30 10:55:04,671 - ERROR - Failed to encrypt file nfc_uids.txt: Fernet key must be 32 url-safe base64-encoded bytes.
+2024-07-30 11:14:47,955 - ERROR - Failed to encrypt file nfc_uids.txt: Fernet key must be 32 url-safe base64-encoded bytes.
+2024-07-30 11:14:49,303 - ERROR - Failed to encrypt file nfc_uids.txt: Fernet key must be 32 url-safe base64-encoded bytes.
+2024-07-30 11:18:06,116 - ERROR - Failed to encrypt file nfc_uids.txt: Fernet key must be 32 url-safe base64-encoded bytes.
+2024-07-30 11:19:56,463 - ERROR - Failed to encrypt file nfc_uids.txt: Fernet key must be 32 url-safe base64-encoded bytes.
+2024-07-30 11:19:57,482 - ERROR - Failed to encrypt file nfc_uids.txt: Fernet key must be 32 url-safe base64-encoded bytes.
+2024-07-30 11:19:58,514 - ERROR - Failed to encrypt file nfc_uids.txt: Fernet key must be 32 url-safe base64-encoded bytes.
+2024-07-30 11:19:59,544 - ERROR - Failed to encrypt file nfc_uids.txt: Fernet key must be 32 url-safe base64-encoded bytes.
+2024-07-30 11:20:00,571 - ERROR - Failed to encrypt file nfc_uids.txt: Fernet key must be 32 url-safe base64-encoded bytes.
+2024-07-30 11:20:01,597 - ERROR - Failed to encrypt file nfc_uids.txt: Fernet key must be 32 url-safe base64-encoded bytes.
+2024-07-30 11:20:02,617 - ERROR - Failed to encrypt file nfc_uids.txt: Fernet key must be 32 url-safe base64-encoded bytes.
+2024-07-30 11:20:03,648 - ERROR - Failed to encrypt file nfc_uids.txt: Fernet key must be 32 url-safe base64-encoded bytes.
+2024-07-30 11:32:15,147 - INFO - Key loaded: b'\xca\x0b\xee\x17\x15M\xe8\xb9w\xf0\x06\xeb7+\x14\xd60RdiJVfLqY3lrA9OpmEf3tCPYnzUZdxyoO9md8TCVu4='
+2024-07-30 11:32:15,149 - INFO - Key saved to encryption_key.key
+2024-07-30 11:32:25,239 - INFO - File encrypted: nfc_uids.txt
+2024-07-30 11:32:35,240 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:32:45,241 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:36:19,648 - INFO - Key loaded: b'95wROkB2hRfauojudhUxJWXTxDxEpupF10k93GvYC-4='
+2024-07-30 11:36:29,728 - INFO - File encrypted: nfc_uids.txt
+2024-07-30 11:36:39,728 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:36:49,729 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:36:59,730 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:37:09,731 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:37:26,088 - INFO - Key loaded: b'95wROkB2hRfauojudhUxJWXTxDxEpupF10k93GvYC-4='
+2024-07-30 11:37:36,090 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:37:46,092 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:37:56,092 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:38:06,093 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:38:16,094 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:38:26,094 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:38:36,095 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:38:46,095 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:38:56,096 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:39:06,097 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:39:16,098 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:39:26,099 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:39:36,113 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:39:46,116 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:39:56,124 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:40:06,127 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:40:16,128 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:40:26,139 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:40:36,140 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:40:46,141 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:40:56,149 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:41:06,160 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:41:16,161 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:41:26,168 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:41:36,170 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:41:46,171 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:41:56,178 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:42:06,179 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:42:16,180 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:42:26,181 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:42:36,182 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:42:46,184 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:42:56,191 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:43:06,203 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:43:16,204 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:43:26,205 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:43:36,206 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:43:46,206 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:43:56,207 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:44:06,208 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:44:16,224 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:44:26,230 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:44:36,240 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:44:46,250 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:44:56,263 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:45:06,291 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:45:16,292 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:45:26,293 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:45:36,293 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:45:46,295 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:45:56,297 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:46:06,299 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:46:16,313 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:46:26,315 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:46:36,320 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:46:46,341 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:46:56,344 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'
+2024-07-30 11:47:06,346 - ERROR - Failed to encrypt file nfc_uids.txt: [Errno 2] No such file or directory: 'nfc_uids.txt'

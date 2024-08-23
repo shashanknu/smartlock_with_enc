@@ -1,0 +1,35 @@
+import serial
+import time
+from datetime import datetime
+import csv
+
+# Configure the serial port (replace 'COM5' with your actual serial port)
+ser = serial.Serial('COM5', 115200)  # For Windows
+# ser = serial.Serial('/dev/ttyUSB0', 115200)  # For Linux
+
+def extract_uid(data):
+    # Implement the logic to extract the UID from the NFC data
+    # This will depend on the specific format of the data from your NFC module
+    # For example, if the UID is a hexadecimal string, you might do something like this:
+    if "UID:" in data:
+        return data.split("UID:")[1].strip()
+    return None
+
+# Open a CSV file to write the data
+with open("nfc_data.csv", "a", newline='') as csvfile:
+    csvwriter = csv.writer(csvfile)
+    csvwriter.writerow(["Time", "UID"])  # Write header row
+
+    while True:
+        if ser.in_waiting:
+            try:
+                data = ser.readline().decode('utf-8', errors='ignore').strip()
+                uid = extract_uid(data)  # Extract UID from the data
+                if uid:  # Only log if a valid UID is found
+                    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                    print(f"{current_time} - {uid}")
+                    csvwriter.writerow([current_time, uid])
+                    csvfile.flush()  # Ensure the data is written to the file immediately
+            except Exception as e:
+                print(f"Error reading data: {e}")
+        time.sleep(1)  # Short delay to avoid high CPU usage
